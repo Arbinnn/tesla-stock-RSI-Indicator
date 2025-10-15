@@ -22,3 +22,12 @@ This project analyzes Tesla's (TSLA) stock performance by calculating and visual
    ```bash
    git clone https://github.com/<your-username>/tesla-stock-rsi-analysis.git
    cd tesla-stock-rsi-analysis
+
+ 2. Install dependencies:
+
+pip install -r requirements.txt
+
+
+3. Run the script:
+
+python main.py
