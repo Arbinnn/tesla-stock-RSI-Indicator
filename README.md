@@ -33,4 +33,6 @@ pip install -r requirements.txt
 python main.py
 ```
  Expected Outcome
+
+ 
  <img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/36f2af71-a4d8-4640-b0cd-95c9b8d2a32e" />
